@@ -8,7 +8,7 @@ This is a React test, which consists of a calculator React App, created with cre
 - Downloadable as PWA.
 
 #### Languages and libraries used
-`React` `JavaScript` `HTML` `CSS`
+`React` `JavaScript` `HTML` `CSS` `Bootstrap`
 
 #### Deployed at
 [netlify](https://pensive-hodgkin-030e2f.netlify.app/)
