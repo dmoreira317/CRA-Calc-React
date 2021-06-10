@@ -10,4 +10,4 @@ And it features a bit of bootstarpping.
 `React` `JavaScript` `HTML` `CSS` `Bootstrap`
 
 #### Deployed at
-[netlify](https://pensive-hodgkin-030e2f.netlify.app/)
+[netlify](https://simplereactcalc.netlify.app/)
