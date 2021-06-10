@@ -1,7 +1,6 @@
-# CRA-Calc-React
-Basic Calculator built on React - PWA - Bootstrap ready
 ## CRA Basic Calculator as PWA
-This is a React test, which consists of a calculator React App, created with create-react-app and PWA as template.
+A calculator built in React, created with create-react-app and PWA as template.
+And it features a bit of bootstarpping.
 
 #### Features
 - A calculator which displays all possible operations on-screen.
